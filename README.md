@@ -30,7 +30,7 @@ A production-grade TypeScript monorepo that wraps the **Claude Agent SDK** with 
 **Scale:**
 
 ```
-12 packages | 1,083+ tests | 15+ DB tables | 10 SNS platforms | 4 MCP servers
+12 packages | 1,165+ tests | 15+ DB tables | 10 SNS platforms | 4 MCP servers
 ```
 
 [![Argus](https://img.shields.io/badge/Argus-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/ryusuke-ai/argus)
