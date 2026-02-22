@@ -30,7 +30,7 @@ A production-grade TypeScript monorepo that wraps the **Claude Agent SDK** with 
 **Scale:**
 
 ```
-12 packages | 1,165+ tests | 15+ DB tables | 10 SNS platforms | 4 MCP servers
+11 packages | 1,360+ tests | 16 DB tables | 10 SNS platforms | 4 MCP servers
 ```
 
 [![Argus](https://img.shields.io/badge/Argus-View_Repository-blue?style=for-the-badge&logo=github)](https://github.com/ryusuke-ai/argus)
@@ -65,10 +65,9 @@ A production-grade TypeScript monorepo that wraps the **Claude Agent SDK** with 
 
 **Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Testing**
 
